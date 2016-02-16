@@ -1,0 +1,11 @@
+{
+  "name": "tofactory",
+  "version": "1.0.3",
+  "description": "convert a function to a factory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mauro Junior",
+  "license": "MIT"
+}
